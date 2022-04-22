@@ -10,7 +10,11 @@ I've been learning to code for 9 years. I started with HTML, JavaScript and C, a
 *   🖥️  See my portfolio at [comming sonn](http://www.linkedin.com/in/miguel-mar%C3%A7ola/)
 *   ✉️  You can contact me at [miguelmarcola@gmail.com](mailto:miguelmarcola@gmail.com)
 *   🧠  I'm learning .NET CORE
-*   ⚡  I'm secretly Batman... but don't tell anyone### Skills<p align="left">
+*   ⚡  I'm secretly Batman... but don't tell anyone
+
+### Skills
+
+<p align="left">
             <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
             <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
             <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
