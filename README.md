@@ -9,7 +9,7 @@ I've been learning to code for 9 years. I started with HTML, JavaScript and C, a
 *   🌍  I'm based in Rio de Janeiro - Brazil
 *   🖥️  See my portfolio at [comming sonn](http://www.linkedin.com/in/miguel-mar%C3%A7ola/)
 *   ✉️  You can contact me at [miguelmarcola@gmail.com](mailto:miguelmarcola@gmail.com)
-*   🧠  I'm learning .NET CORE
+*   🧠  I'm learning Python
 *   ⚡  I'm secretly Batman... but don't tell anyone
 
 ### Skills
